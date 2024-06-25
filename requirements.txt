@@ -1,0 +1,6 @@
+pandas
+PyPDF2
+PyMuPDF
+fitz
+pdfplumber
+openpyxl
